@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/4A-Contact Book/4A-Contact Book.iml" filepath="$PROJECT_DIR$/4A-Contact Book/4A-Contact Book.iml" />
       <module fileurl="file://$PROJECT_DIR$/4B-Sensor Hub/4B-Sensor Hub.iml" filepath="$PROJECT_DIR$/4B-Sensor Hub/4B-Sensor Hub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4C - Task List/4C - Task List.iml" filepath="$PROJECT_DIR$/4C - Task List/4C - Task List.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Exercises-Period-2-Week-4.iml" filepath="$PROJECT_DIR$/.idea/Java-Exercises-Period-2-Week-4.iml" />
     </modules>
   </component>
